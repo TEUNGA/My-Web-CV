@@ -1,2 +1,2 @@
 # My-Web-CV
-This is my CV With HTML CSS and Bootstrap
+This is my CV With HTML CSS, Bootstrap, Javascript
